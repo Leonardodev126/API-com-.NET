@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3AB33-109B-4E76-9FC6-310878339C5D}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\leona\\desktop\\projeto c# (api)\\productclienthub\\productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3AB33-109B-4E76-9FC6-310878339C5D}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\leona\\desktop\\projeto c# (api)\\productclienthub\\productclienthub.communication\\requests\\requestclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\requests\\requestclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\leona\\desktop\\projeto c# (api)\\productclienthub\\productclienthub.communication\\responses\\responseclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\responses\\responseclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseClientJson.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
+              "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:19:26.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestClientJson.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
+              "RelativeToolTip": "ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:10:25.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:23:27.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
