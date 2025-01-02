@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProductClientHub.API.UseCases.Clients.Register;
 using ProductClientHub.Communication.Requests;
 using ProductClientHub.Communication.Responses;
 
@@ -10,12 +11,35 @@ public class ClientsController : ControllerBase
     // Endpoints Post, Update, Get, Delete
 {
      [HttpPost] // Registrar um cliente
+     // Para a documentação do meu swagger
      [ProducesResponseType(typeof(ResponseClientJson), StatusCodes.Status201Created)] // Resposta do swagger, que  no caso é a classe ResponseCLientJson e o tipo dela 201 Created.
-     public IActionResult Register([FromBody] RequestClientJson request)
+     [ProducesResponseType(typeof(ResponseErrorMessageJson), StatusCodes.Status400BadRequest)]
+    public IActionResult Register([FromBody] RequestClientJson request)
      {
-        return Created();
-     }
 
+        try
+        {
+            var useCase = new RegisterClientUSeCase();
+
+            var response = useCase.Execute(request);
+
+            return Created(string.Empty, response);
+
+        }
+
+        catch (ArgumentException ex)
+        {
+            return BadRequest(new ResponseErrorMessageJson(ex.Message)); // Chamando meu construtor da classe ResponseErrorMessageJson, que é a responsável por apresentar uma lista de erros
+        }
+
+        catch
+        {
+            return StatusCode(StatusCodes.Status500InternalServerError, new ResponseErrorMessageJson("Erro desconhecido"));
+        }
+
+
+     }
+     
      [HttpPut] // Atualizar um cliente
      public IActionResult Update()
      {

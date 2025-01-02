@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{57E3AB33-109B-4E76-9FC6-310878339C5D}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\leona\\desktop\\projeto c# (api)\\productclienthub\\productclienthub.communication\\requests\\requestclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\requests\\requestclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\leona\\desktop\\projeto c# (api)\\productclienthub\\productclienthub.communication\\responses\\responseerrormessagejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\responses\\responseerrormessagejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3AB33-109B-4E76-9FC6-310878339C5D}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\leona\\desktop\\projeto c# (api)\\productclienthub\\productclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3AB33-109B-4E76-9FC6-310878339C5D}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\usecases\\clients\\register\\registerclientusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\leona\\desktop\\projeto c# (api)\\productclienthub\\productclienthub.communication\\responses\\responseclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\responses\\responseclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E3AB33-109B-4E76-9FC6-310878339C5D}|ProductClientHub.API\\ProductClientHub.API.csproj|c:\\users\\leona\\desktop\\projeto c# (api)\\productclienthub\\productclienthub.api\\usecases\\clients\\register\\registerclientvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E3AB33-109B-4E76-9FC6-310878339C5D}|ProductClientHub.API\\ProductClientHub.API.csproj|solutionrelative:productclienthub.api\\usecases\\clients\\register\\registerclientvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|c:\\users\\leona\\desktop\\projeto c# (api)\\productclienthub\\productclienthub.communication\\requests\\requestclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691277B0-1C34-433C-82C2-B387ABAF0F68}|ProductClientHub.Communication\\ProductClientHub.Communication.csproj|solutionrelative:productclienthub.communication\\requests\\requestclientjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +34,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseErrorMessageJson.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.Communication\\Responses\\ResponseErrorMessageJson.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseErrorMessageJson.cs*",
+              "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseErrorMessageJson.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:14:49.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterClientValidator.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientValidator.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientValidator.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientValidator.cs",
+              "RelativeToolTip": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:26:24.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RegisterClientUSeCase.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUSeCase.cs",
+              "RelativeDocumentMoniker": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUSeCase.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUSeCase.cs",
+              "RelativeToolTip": "ProductClientHub.API\\UseCases\\Clients\\Register\\RegisterClientUSeCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:10:49.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ResponseClientJson.cs",
               "DocumentMoniker": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
               "RelativeDocumentMoniker": "ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
               "ToolTip": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
               "RelativeToolTip": "ProductClientHub.Communication\\Responses\\ResponseClientJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T18:19:26.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RequestClientJson.cs",
               "DocumentMoniker": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
               "RelativeDocumentMoniker": "ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
               "ToolTip": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
               "RelativeToolTip": "ProductClientHub.Communication\\Requests\\RequestClientJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T18:10:25.046Z",
               "EditorCaption": ""
@@ -58,7 +109,7 @@
               "RelativeDocumentMoniker": "ProductClientHub.API\\Controllers\\ClientsController.cs",
               "ToolTip": "C:\\Users\\leona\\Desktop\\Projeto C# (API)\\ProductClientHub\\ProductClientHub.API\\Controllers\\ClientsController.cs",
               "RelativeToolTip": "ProductClientHub.API\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T18:23:27.494Z",
               "EditorCaption": ""

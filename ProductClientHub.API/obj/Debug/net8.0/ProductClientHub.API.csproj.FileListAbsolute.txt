@@ -39,3 +39,4 @@ C:\Users\leona\Desktop\Projeto C# (API)\ProductClientHub\ProductClientHub.API\ob
 C:\Users\leona\Desktop\Projeto C# (API)\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\ProductClientHub.API.pdb
 C:\Users\leona\Desktop\Projeto C# (API)\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\ProductClientHub.API.genruntimeconfig.cache
 C:\Users\leona\Desktop\Projeto C# (API)\ProductClientHub\ProductClientHub.API\obj\Debug\net8.0\ref\ProductClientHub.API.dll
+C:\Users\leona\Desktop\Projeto C# (API)\ProductClientHub\ProductClientHub.API\bin\Debug\net8.0\FluentValidation.dll
